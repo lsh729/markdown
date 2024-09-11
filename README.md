@@ -1,5 +1,16 @@
 # markdown
 
-My nane is Lee Siheon
-my major is computer science
-abcd
+
+#intro
++my name is *Lee Siheon*
+
++my major is _computer science_
+
++my hobby is **basket ball**
+
+
+
+
+
+
+***
