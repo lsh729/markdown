@@ -1,4 +1,4 @@
 # markdown
 
 My nane is Lee Siheon
-[!important] my major is computer science
+my major is computer science
