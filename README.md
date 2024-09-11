@@ -1,7 +1,8 @@
 # markdown
 
 
-#intro
+#intro  
+
 +my name is *Lee Siheon*
 
 +my major is _computer science_
@@ -10,7 +11,9 @@
 
 
 
-
+<details><summary>Click</summary>
+I will do my best during the semester
+</details>   
 
 
 ***
